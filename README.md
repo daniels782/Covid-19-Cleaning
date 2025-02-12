@@ -1,1 +1,1 @@
-# Covid-19-Cleaning
+# SQL PROJECT
